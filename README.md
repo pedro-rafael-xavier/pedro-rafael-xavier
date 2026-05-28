@@ -12,7 +12,7 @@ HTML • CSS • Bootstrap • JavaScript • PHP • MySQL • Python • WordP
 
 ## BlueWave CMS
 
-<img src="images/bluewave-homepage.png" alt="BlueWave CMS Homepage">
+<img src="images/bluewave-preview.png" alt="BlueWave CMS Homepage">
 
 Custom CMS platform featuring authentication, CRUD operations, dynamic content management and a responsive admin dashboard.
 
@@ -24,7 +24,7 @@ Custom CMS platform featuring authentication, CRUD operations, dynamic content m
 
 ## Developer Portfolio
 
-<img src="images/portfolio-homepage.png" alt="Developer Portfolio">
+<img src="images/rafaelxavier-dev-preview.png" alt="Developer Portfolio">
 
 Responsive portfolio featuring dark/light mode, project showcases and live deployments.
 
