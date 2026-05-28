@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/portfolio-banner.png" alt="Rafael Xavier Portfolio Banner">
+  <img src="images/rafaelxavier-dev-preview.png" alt="Rafael Xavier Portfolio Banner">
 </p>
 
 # Hi, I'm Rafael Xavier 👋
