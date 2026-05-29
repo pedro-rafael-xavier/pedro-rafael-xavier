@@ -82,9 +82,9 @@ https://github.com/pedro-rafael-xavier/portfolio
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2>📫 Connect With Me</h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rafael-xavier-686754355/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
