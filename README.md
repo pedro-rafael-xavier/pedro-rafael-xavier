@@ -72,7 +72,7 @@ The implementation includes a promotional video hero, booking widget, hotel pres
 
 ### E. Sousa — Composer & Violinist
 
-[E. Sousa Website Preview](https://github.com/pedro-rafael-xavier/pedro-rafael-xavier/blob/main/images/esousa-preview.png) ([image](https://github.com/pedro-rafael-xavier/pedro-rafael-xavier/raw/main/images/esousa-preview.png))
+![E. Sousa Website Preview](images/esousa-preview.png)
 
 Official website for Portuguese composer and violinist Eduardo Neves de Sousa, based in Oslo, Norway.
 
