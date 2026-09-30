@@ -70,7 +70,7 @@ The implementation includes a promotional video hero, booking widget, hotel pres
 
 ---
 
-### E. Sousa — Composer & Violinist
+### E. Sousa - Composer & Violinist
 
 ![E. Sousa Website Preview](images/e-sousa-preview.png)
 
