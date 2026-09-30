@@ -70,6 +70,26 @@ The implementation includes a promotional video hero, booking widget, hotel pres
 
 ---
 
+### E. Sousa — Composer & Violinist
+
+[E. Sousa Website Preview](https://github.com/pedro-rafael-xavier/pedro-rafael-xavier/blob/main/images/esousa-preview.png) ([image](https://github.com/pedro-rafael-xavier/pedro-rafael-xavier/raw/main/images/esousa-preview.png))
+
+Official website for Portuguese composer and violinist Eduardo Neves de Sousa, based in Oslo, Norway.
+
+A custom website designed and developed from scratch to present the artist's music, film scoring work, collaborations, biography, press materials and professional contact information.
+
+The project focuses on cinematic editorial design, responsive development, performance, accessibility and technical SEO. It includes clean URL routing with Apache, structured Schema.org metadata, Open Graph integration, responsive WebP images, lazy-loaded YouTube embeds, custom 404 handling, XML sitemap and `robots.txt`.
+
+**Technologies:** PHP, HTML5, CSS3, JavaScript, Bootstrap and Apache.
+
+**Lighthouse:** 100 Performance · 95 Accessibility · 100 Best Practices · 100 SEO *(Music page)*
+
+🔗 **Live Website:** https://esousaofficial.com/
+
+🔗 **Repository:** https://github.com/pedro-rafael-xavier/esousa
+
+---
+
 ### The Mouldy Cave Society
 
 ![The Mouldy Cave Society Preview](images/mouldy-cave-preview.png)
